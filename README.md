@@ -61,3 +61,7 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 1
 1
 1
+<<<<<<< HEAD
+=======
+1
+>>>>>>> branch1
